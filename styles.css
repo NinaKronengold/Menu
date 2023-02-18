@@ -9,6 +9,15 @@
   font-size: 16px;
 }
 
+.header {
+    padding: 6px;
+    text-align: center;
+    background: #49cdd6;
+    color: white;
+    font-size: 24px;
+    font-family: 'Raleway Dots'
+  }
+
 .menu-group-heading {
  margin: 0;
     padding-bottom: 1em;
